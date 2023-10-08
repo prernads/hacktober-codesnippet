@@ -10,16 +10,16 @@ Below you will find the process and workflow used to review and merge your chang
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Note : Every change in this project should/must have an associated issue. 
 
-![Screenshot (190)](https://user-images.githubusercontent.com/55796944/92216403-e1055080-eeb3-11ea-95f6-1b95b90813f5.jpg)
+
 
 ## Step 2 : Fork the Project
 - Fork this Repository. This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in `upstream` remote.
 ```
-$ git clone https://github.com/<your-username>/Amazing-Python-Scripts
-$ cd Amazing-Python-Scripts
-$ git remote add upstream https://github.com/avinashkranjan/Amazing-Python-Scripts
+$ git clone https://github.com/<your-username>/hacktober-codesnippet
+$ cd hacktober-codesnippet
+$ git remote add upstream https://github.com/gdscpce/hacktober-codesnippet
 ```
-![Screenshot (191)](https://user-images.githubusercontent.com/55796944/92216605-23c72880-eeb4-11ea-9b89-e15e0a1f254d.jpg)
+
 
 
 - If you have already forked the project, update your copy before working.
@@ -61,9 +61,9 @@ $ git push -u origin Branch_Name
 ## Step 7 : Pull Request
 - Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
 
-- Voila! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳
+- Voila! Your Pull Request has been submitted and will be reviewed by the moderators and merged.
 
-## Need more help?🤔
+## Need more help?
 You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck:
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)
@@ -71,6 +71,3 @@ You can refer to the following articles on basics of Git and Github and also con
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 - [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
 
-
-## Tip from us😇
-It always takes time to understand and learn. So, do not worry at all. We know **you have got this**!💪
