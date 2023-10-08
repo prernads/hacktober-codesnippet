@@ -61,7 +61,7 @@ $ git push -u origin Branch_Name
 ## Step 7 : Pull Request
 - Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.
 
-- Voila! Your Pull Request has been submitted and will be reviewed by the moderators and merged.
+- Your Pull Request has been submitted and will be reviewed by the moderators and merged.
 
 ## Need more help?
 You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck:
